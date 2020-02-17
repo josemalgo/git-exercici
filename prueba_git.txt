@@ -1,1 +1,4 @@
+
 Modifico el fitxer en la rama master.
+
+Introduciendo cambios en el fichero de texto desde la rama "branch1".
